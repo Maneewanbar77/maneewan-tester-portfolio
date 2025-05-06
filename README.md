@@ -20,7 +20,7 @@ I'm a IT QA & Tester Specialist with experience in:
 |----------------|-------------|
 | [`edocument-system-tests`](./edocument-system-tests) | Web‑based document management and e‑signature system. Automated using Robot Framework. |
 | [`enterprise-doc-management-web-tests`](./enterprise‑doc‑management‑web‑tests) | End‑to‑end test suites for an **internal document & access‑control web application** (non‑public). The tests cover authentication, role/holiday administration, user‑role matrices, file reception, real‑time job monitoring, and summary reports. |
-| [`iso-masterlist-web-tests`](./iso-masterlist-web-tests) | End‑to‑end tests for an **internal ISO document‑control & master‑list application** (non‑public). Covers department setup, document‑type config, confidentiality levels, review/storage schedules, and full document‑lifecycle workflows. |
+| [`iso‑masterlist‑web‑tests`](./iso‑masterlist‑web‑tests) | End‑to‑end tests for an **internal ISO document‑control & master‑list application** (non‑public). Covers department setup, document‑type config, confidentiality levels, review/storage schedules, and full document‑lifecycle workflows. |
 | [`warehouse‑management‑web‑tests`](./warehouse‑management‑web‑tests) | End‑to‑end test suites for an **internal warehouse‑management & access‑control application** (non‑public). Includes login/logout, password change, user‑account CRUD, and role/permission configuration. |
 
 ---
